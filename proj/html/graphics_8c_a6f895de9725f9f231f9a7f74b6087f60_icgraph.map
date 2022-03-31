@@ -1,0 +1,6 @@
+<map id="vg_draw_pixel" name="vg_draw_pixel">
+<area shape="rect" id="node1" title="Draw a pixel at x and y, with the given color." alt="" coords="332,31,435,57"/>
+<area shape="rect" id="node2" href="$graphics_8h.html#a5e5b25bd525250f61f40b9e9f212d5e6" title=" " alt="" coords="181,5,284,32"/>
+<area shape="rect" id="node4" href="$graphics_8h.html#a1135e6421577648c6d1c0abc1e971663" title=" " alt="" coords="183,56,283,83"/>
+<area shape="rect" id="node3" href="$graphics_8h.html#a99d2da2559e11200c6b40c469e9977ec" title=" " alt="" coords="5,31,133,57"/>
+</map>

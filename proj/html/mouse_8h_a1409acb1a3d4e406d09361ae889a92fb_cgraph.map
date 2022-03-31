@@ -1,0 +1,7 @@
+<map id="disableMouseDataReporting" name="disableMouseDataReporting">
+<area shape="rect" id="node1" title="Disable mouse data report." alt="" coords="5,56,189,83"/>
+<area shape="rect" id="node2" href="$mouse_8c.html#abe7c9999227f1c30c9d7bfc9bfdd464a" title="Wryte byte to mouse." alt="" coords="237,56,367,83"/>
+<area shape="rect" id="node3" href="$mouse_8c.html#acdbc39e02390aa9c233738854198c3a6" title="Check if input buffer is full." alt="" coords="419,5,549,32"/>
+<area shape="rect" id="node4" href="$mouse_8c.html#a85ef94d93daf103419342cbacebe8aa8" title="Check if outputbuffer is available." alt="" coords="415,56,553,83"/>
+<area shape="rect" id="node5" href="$mouse_8c.html#ad6a4a569411e193be347805f4c2cdc3f" title="Waits the mouse delay." alt="" coords="435,107,533,133"/>
+</map>

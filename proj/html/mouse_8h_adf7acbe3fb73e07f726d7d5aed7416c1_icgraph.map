@@ -1,0 +1,6 @@
+<map id="mouse_read" name="mouse_read">
+<area shape="rect" id="node1" title="Read a packet from mouse." alt="" coords="420,5,513,32"/>
+<area shape="rect" id="node2" href="$mouse_8h.html#a210374b50462acdedab00df64d5cea3c" title="Mouse interrupt handler." alt="" coords="293,5,372,32"/>
+<area shape="rect" id="node3" href="$proj_8c.html#ae3fcb6ab83836a82d8ab58a853667cba" title=" " alt="" coords="163,5,245,32"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

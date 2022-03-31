@@ -1,0 +1,16 @@
+<map id="getAngle" name="getAngle">
+<area shape="rect" id="node1" title=" " alt="" coords="739,132,812,159"/>
+<area shape="rect" id="node2" href="$sprite_8h.html#a51190d2eb1c578c10ff8cb383283de32" title="Get rotation of the sprite when facing the x and y coordinates." alt="" coords="567,31,655,57"/>
+<area shape="rect" id="node5" href="$sprite_8h.html#a650da786e3a6bc9864a2489d8cc5caa0" title="Transforms the oldx and oldy." alt="" coords="536,107,687,133"/>
+<area shape="rect" id="node12" href="$sprite_8c.html#aec21383fe31f06df926e18e5bb2be9f3" title=" " alt="" coords="532,208,691,235"/>
+<area shape="rect" id="node13" href="$sprite_8h.html#a1c81ccf8252e976f9f80f6fe1b1d4c0a" title="Set the sprite speed with the value of speed and direction of vectorX,vectorY." alt="" coords="573,157,650,184"/>
+<area shape="rect" id="node3" href="$player_8h.html#abc03ad2ad145be7729562d2bc7f92aab" title="Sets player facing the cursor." alt="" coords="370,5,479,32"/>
+<area shape="rect" id="node4" href="$game_8h.html#a2a14d25efcee5c54cf427547af2c431e" title="Receive timer interrupt, move and draw all entities, and also checks for colisions." alt="" coords="5,56,147,83"/>
+<area shape="rect" id="node6" href="$enemy_8h.html#aa22774d1dc51d5657ac7c1e7d09665e5" title="Move enemy and its gun." alt="" coords="378,56,471,83"/>
+<area shape="rect" id="node8" href="$player_8h.html#a416d41c018c622b16d086b310e2e7056" title="Moves player." alt="" coords="195,107,317,133"/>
+<area shape="rect" id="node9" href="$gun_8h.html#a6243ddd362a9053a6e2b23fbf3d025c0" title="Makes the gun shoot at the target." alt="" coords="397,157,452,184"/>
+<area shape="rect" id="node7" href="$game_8h.html#a7fafe580932f789041ce0473eb1d7367" title="Move given Entity at the given gameSpeed." alt="" coords="213,56,299,83"/>
+<area shape="rect" id="node10" href="$enemy_8h.html#a45f7330a9bec806c93db368a1f13f445" title="Create an Enemy , at the given x and y, moving towards player." alt="" coords="207,208,305,235"/>
+<area shape="rect" id="node11" href="$enemy_8h.html#adc41886e4329c272556f233b791697cb" title="Function to update enemy movement, and shoot. Used every periodic interrupt." alt="" coords="207,157,305,184"/>
+<area shape="rect" id="node14" href="$enemy_8h.html#a02bad44163cdf425efd37b5056c19f02" title="Set the Enemy Speed towards player." alt="" coords="365,208,484,235"/>
+</map>

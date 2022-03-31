@@ -1,0 +1,4 @@
+<map id="getDate" name="getDate">
+<area shape="rect" id="node1" title="Get current date." alt="" coords="5,5,72,32"/>
+<area shape="rect" id="node2" href="$rtc_8c.html#a4977312557460aaf50b8bfedb90758a9" title="Read from RTC register." alt="" coords="120,5,189,32"/>
+</map>

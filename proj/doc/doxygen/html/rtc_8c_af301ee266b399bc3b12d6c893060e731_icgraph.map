@@ -1,0 +1,8 @@
+<map id="rtc_write" name="rtc_write">
+<area shape="rect" id="node1" title="Write to RTC register." alt="" coords="516,56,587,83"/>
+<area shape="rect" id="node2" href="$rtc_8h.html#ac41958137ea3955128cc2437d8e6a4cd" title="Active RTC periodic interrupts at te sample rate given." alt="" coords="293,5,468,32"/>
+<area shape="rect" id="node5" href="$rtc_8h.html#a731ad30ae4082a65181000f326597ba2" title="Add alarm." alt="" coords="321,56,440,83"/>
+<area shape="rect" id="node6" href="$rtc_8h.html#a69ba31d0081549b2418944de50971670" title="Disable RTC periodic interrupts." alt="" coords="312,107,449,133"/>
+<area shape="rect" id="node3" href="$proj_8c.html#ae3fcb6ab83836a82d8ab58a853667cba" title=" " alt="" coords="163,56,245,83"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,56,115,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="destroyEntity" name="destroyEntity">
+<area shape="rect" id="node1" title="Removes an entity." alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node2" href="$game_8c.html#a283ecb66dd5da59a2dcd7cdb513e323d" title="Checks if a new highscore was achieved and saves it." alt="" coords="152,5,260,32"/>
+<area shape="rect" id="node3" href="$rtc_8c.html#a4a54f52996492cdc8a704b68ff5d43dd" title="Get current date." alt="" coords="308,5,375,32"/>
+<area shape="rect" id="node4" href="$rtc_8c.html#a4977312557460aaf50b8bfedb90758a9" title="Read from RTC register." alt="" coords="423,5,492,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="mouse_delay" name="mouse_delay">
+<area shape="rect" id="node1" title="Waits the mouse delay." alt="" coords="752,107,851,133"/>
+<area shape="rect" id="node2" href="$mouse_8h.html#abe7c9999227f1c30c9d7bfc9bfdd464a" title="Wryte byte to mouse." alt="" coords="575,107,704,133"/>
+<area shape="rect" id="node3" href="$mouse_8h.html#a1409acb1a3d4e406d09361ae889a92fb" title="Disable mouse data report." alt="" coords="136,5,320,32"/>
+<area shape="rect" id="node4" href="$proj_8c.html#ae3fcb6ab83836a82d8ab58a853667cba" title=" " alt="" coords="5,56,88,83"/>
+<area shape="rect" id="node5" href="$mouse_8h.html#aed070fe22d69b98f19e60b8bfb963f7d" title="Enable mouse data reporting." alt="" coords="137,107,319,133"/>
+<area shape="rect" id="node6" href="$mouse_8c.html#abace4e9f7723bed8a5381f1b3e9cb269" title=" " alt="" coords="375,157,519,184"/>
+<area shape="rect" id="node7" href="$mouse_8h.html#abdf3176879529acc0c65fb930899d022" title="Enable mouse streaming." alt="" coords="368,208,527,235"/>
+</map>

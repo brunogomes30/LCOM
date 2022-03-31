@@ -1,0 +1,13 @@
+<map id="getRotationCoordinate" name="getRotationCoordinate">
+<area shape="rect" id="node1" title="Transforms the oldx and oldy." alt="" coords="711,56,861,83"/>
+<area shape="rect" id="node2" href="$enemy_8h.html#aa22774d1dc51d5657ac7c1e7d09665e5" title="Move enemy and its gun." alt="" coords="569,5,663,32"/>
+<area shape="rect" id="node6" href="$player_8h.html#a416d41c018c622b16d086b310e2e7056" title="Moves player." alt="" coords="399,56,521,83"/>
+<area shape="rect" id="node7" href="$gun_8h.html#a6243ddd362a9053a6e2b23fbf3d025c0" title="Makes the gun shoot at the target." alt="" coords="589,107,643,133"/>
+<area shape="rect" id="node3" href="$game_8h.html#a7fafe580932f789041ce0473eb1d7367" title="Move given Entity at the given gameSpeed." alt="" coords="417,5,503,32"/>
+<area shape="rect" id="node4" href="$game_8h.html#a50650255dafe7459e9b735ef583a70ef" title="Move all entities from the game." alt="" coords="225,5,321,32"/>
+<area shape="rect" id="node5" href="$game_8h.html#a2a14d25efcee5c54cf427547af2c431e" title="Receive timer interrupt, move and draw all entities, and also checks for colisions." alt="" coords="5,56,147,83"/>
+<area shape="rect" id="node8" href="$enemy_8h.html#a45f7330a9bec806c93db368a1f13f445" title="Create an Enemy , at the given x and y, moving towards player." alt="" coords="411,107,509,133"/>
+<area shape="rect" id="node10" href="$enemy_8h.html#adc41886e4329c272556f233b791697cb" title="Function to update enemy movement, and shoot. Used every periodic interrupt." alt="" coords="411,157,509,184"/>
+<area shape="rect" id="node9" href="$game_8h.html#a2f4c7706b824a378e3bbe8493d62ba7e" title="Spawn enemy at a random location outside of the screen." alt="" coords="223,107,323,133"/>
+<area shape="rect" id="node11" href="$game_8h.html#a40792c20f8c8d0a6bd314c796ac9d719" title="Receives periodic interrupt, sets all enemies to move towards player." alt="" coords="195,157,351,184"/>
+</map>

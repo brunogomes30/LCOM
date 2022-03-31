@@ -1,0 +1,12 @@
+<map id="pistoladeagua.h" name="pistoladeagua.h">
+<area shape="rect" id="node1" title=" " alt="" coords="70,5,183,32"/>
+<area shape="rect" id="node2" href="$game_8h.html" title=" " alt="" coords="217,80,282,107"/>
+<area shape="rect" id="node8" href="$player_8c.html" title=" " alt="" coords="75,453,143,480"/>
+<area shape="rect" id="node3" href="$enemy_8h.html" title=" " alt="" coords="252,229,324,256"/>
+<area shape="rect" id="node5" href="$game_8c.html" title=" " alt="" coords="398,304,463,331"/>
+<area shape="rect" id="node7" href="$player_8h.html" title=" " alt="" coords="179,379,247,405"/>
+<area shape="rect" id="node9" href="$proj_8c.html" title=" " alt="" coords="73,379,127,405"/>
+<area shape="rect" id="node10" href="$gun_8h.html" title=" " alt="" coords="183,155,238,181"/>
+<area shape="rect" id="node4" href="$enemy_8c.html" title=" " alt="" coords="251,304,323,331"/>
+<area shape="rect" id="node6" href="$graphics_8h.html" title=" " alt="" coords="93,304,176,331"/>
+</map>

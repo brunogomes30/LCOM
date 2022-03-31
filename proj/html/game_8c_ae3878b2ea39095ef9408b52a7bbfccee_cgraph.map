@@ -1,0 +1,6 @@
+<map id="handleCollision" name="handleCollision">
+<area shape="rect" id="node1" title="Handles a single collision between 2 entities." alt="" coords="5,5,115,32"/>
+<area shape="rect" id="node2" href="$game_8c.html#a15e37b082c572051a6f539773afe9805" title="Removes an entity." alt="" coords="163,5,261,32"/>
+<area shape="rect" id="node3" href="$game_8c.html#a283ecb66dd5da59a2dcd7cdb513e323d" title="Checks if a new highscore was achieved and saves it." alt="" coords="309,5,417,32"/>
+<area shape="rect" id="node4" href="$rtc_8c.html#a4a54f52996492cdc8a704b68ff5d43dd" title="Get current date." alt="" coords="465,5,532,32"/>
+</map>

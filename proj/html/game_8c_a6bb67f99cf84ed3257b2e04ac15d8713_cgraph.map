@@ -1,0 +1,12 @@
+<map id="drawEntities" name="drawEntities">
+<area shape="rect" id="node1" title="Draw all entities." alt="" coords="5,132,99,159"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#a53c75dd4ec4a123969cbd9afa1ec4969" title=" " alt="" coords="147,81,251,108"/>
+<area shape="rect" id="node3" href="$game_8c.html#a33999aac0ff190cf4f34e69bed2512ef" title="Draw a single entity." alt="" coords="157,132,240,159"/>
+<area shape="rect" id="node9" href="$graphics_8c.html#a616b85026b246015bb5eaaf1a1f0be80" title="Draw a text, accepts all letters, numbers and &#39;&#45;&#39;." alt="" coords="157,208,240,235"/>
+<area shape="rect" id="node4" href="$graphics_8c.html#a3cc8f127a31e0bb757f6ed33e6b5ae11" title="Draw bullet." alt="" coords="445,5,528,32"/>
+<area shape="rect" id="node5" href="$graphics_8c.html#a62a556a6198cde2d265eed499fa1d063" title="Draws the sprite with the given sprite.rotation." alt="" coords="576,107,659,133"/>
+<area shape="rect" id="node6" href="$graphics_8c.html#a93b959b9edc2ffc163cf9048158cf208" title="Draw enemy and its gun." alt="" coords="303,107,393,133"/>
+<area shape="rect" id="node7" href="$graphics_8c.html#af8b2046da3db50010a07737729a03c31" title="Draw Gun." alt="" coords="450,157,523,184"/>
+<area shape="rect" id="node8" href="$graphics_8c.html#a1dda663765b5cce5975c3f7e20cceb2d" title="Draw Player and its gun." alt="" coords="305,208,391,235"/>
+<area shape="rect" id="node10" href="$letters_8c.html#a024c02470f2ab24c4478abbad1e4ca01" title="Get the Letter Xpm for the char c." alt="" coords="299,259,397,285"/>
+</map>

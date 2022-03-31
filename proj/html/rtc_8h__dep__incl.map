@@ -1,0 +1,12 @@
+<map id="rtc.h" name="rtc.h">
+<area shape="rect" id="node1" title=" " alt="" coords="446,5,494,32"/>
+<area shape="rect" id="node2" href="$game_8h.html" title=" " alt="" coords="102,80,168,107"/>
+<area shape="rect" id="node8" href="$proj_8c.html" title=" " alt="" coords="392,379,446,405"/>
+<area shape="rect" id="node10" href="$rtc_8c.html" title=" " alt="" coords="507,80,555,107"/>
+<area shape="rect" id="node3" href="$enemy_8h.html" title=" " alt="" coords="138,229,210,256"/>
+<area shape="rect" id="node5" href="$game_8c.html" title=" " alt="" coords="62,304,128,331"/>
+<area shape="rect" id="node7" href="$player_8h.html" title=" " alt="" coords="61,379,129,405"/>
+<area shape="rect" id="node9" href="$gun_8h.html" title=" " alt="" coords="69,155,124,181"/>
+<area shape="rect" id="node4" href="$enemy_8c.html" title=" " alt="" coords="203,304,275,331"/>
+<area shape="rect" id="node6" href="$graphics_8h.html" title=" " alt="" coords="299,304,382,331"/>
+</map>

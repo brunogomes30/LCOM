@@ -1,0 +1,16 @@
+var searchData=
+[
+  ['gameloop_440',['gameLoop',['../proj_8c.html#ae3fcb6ab83836a82d8ab58a853667cba',1,'proj.c']]],
+  ['getangle_441',['getAngle',['../group__sprite.html#ga0fb331ef0d09dcec253a88f9443825f1',1,'getAngle(int x, int y):&#160;sprite.c'],['../group__sprite.html#ga0fb331ef0d09dcec253a88f9443825f1',1,'getAngle(int x, int y):&#160;sprite.c']]],
+  ['getcenter_442',['getCenter',['../group__sprite.html#ga3bcd40bb529715085c48a4940e5d88a2',1,'getCenter(Sprite *sprite, int *x, int *y):&#160;sprite.c'],['../group__sprite.html#ga3bcd40bb529715085c48a4940e5d88a2',1,'getCenter(Sprite *sprite, int *x, int *y):&#160;sprite.c']]],
+  ['getcolor_443',['getColor',['../group__sprite.html#gaa491f9ef7955263965ce0f118e42dd46',1,'getColor(Sprite *sprite, int x, int y):&#160;sprite.c'],['../group__sprite.html#gaa491f9ef7955263965ce0f118e42dd46',1,'getColor(Sprite *sprite, int x, int y):&#160;sprite.c']]],
+  ['getdate_444',['getDate',['../group__rtc.html#ga4a54f52996492cdc8a704b68ff5d43dd',1,'getDate():&#160;rtc.c'],['../group__rtc.html#ga4a54f52996492cdc8a704b68ff5d43dd',1,'getDate():&#160;rtc.c']]],
+  ['getletterxpm_445',['getLetterXpm',['../group__letters.html#ga024c02470f2ab24c4478abbad1e4ca01',1,'getLetterXpm(char c):&#160;letters.c'],['../group__letters.html#ga024c02470f2ab24c4478abbad1e4ca01',1,'getLetterXpm(char c):&#160;letters.c']]],
+  ['getpistol_446',['getPistol',['../group__gun.html#gad9083661e824e584a081e322ea52ac1e',1,'getPistol(Game *game, uint8_t isEquipped, int x, int y):&#160;gun.c'],['../group__gun.html#gad9083661e824e584a081e322ea52ac1e',1,'getPistol(Game *game, uint8_t isEquipped, int x, int y):&#160;gun.c']]],
+  ['getresolution_447',['getResolution',['../group__graphics.html#ga97d897abed5ce28d50f65211fb8aaa2d',1,'getResolution(int *xres, int *yres):&#160;graphics.c'],['../group__graphics.html#ga97d897abed5ce28d50f65211fb8aaa2d',1,'getResolution(int *xres, int *yres):&#160;graphics.c']]],
+  ['getrotation_448',['getRotation',['../group__sprite.html#ga51190d2eb1c578c10ff8cb383283de32',1,'getRotation(Sprite *source, unsigned x, unsigned y):&#160;sprite.c'],['../group__sprite.html#ga51190d2eb1c578c10ff8cb383283de32',1,'getRotation(Sprite *source, unsigned x, unsigned y):&#160;sprite.c']]],
+  ['getrotationcoordinate_449',['getRotationCoordinate',['../group__sprite.html#ga650da786e3a6bc9864a2489d8cc5caa0',1,'getRotationCoordinate(Sprite *sprite, int oldx, int oldy, int *newx, int *newy):&#160;sprite.c'],['../group__sprite.html#ga650da786e3a6bc9864a2489d8cc5caa0',1,'getRotationCoordinate(Sprite *sprite, int oldx, int oldy, int *newx, int *newy):&#160;sprite.c']]],
+  ['getsmg_450',['getSMG',['../group__gun.html#ga2751799e0e0b2952eb2617de635089a1',1,'getSMG(Game *game, uint8_t isEquipped, int x, int y):&#160;gun.c'],['../group__gun.html#ga2751799e0e0b2952eb2617de635089a1',1,'getSMG(Game *game, uint8_t isEquipped, int x, int y):&#160;gun.c']]],
+  ['getsprite_451',['getSprite',['../group__game.html#gaa241e6bcdb18bb89f4ce2bd16def48bb',1,'getSprite(EntitiesLinkedElement *elem):&#160;game.c'],['../group__game.html#gaa241e6bcdb18bb89f4ce2bd16def48bb',1,'getSprite(EntitiesLinkedElement *entity):&#160;game.c']]],
+  ['getunrotatedcoordinate_452',['getUnrotatedCoordinate',['../sprite_8c.html#aec21383fe31f06df926e18e5bb2be9f3',1,'sprite.c']]]
+];

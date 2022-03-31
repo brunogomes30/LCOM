@@ -1,0 +1,11 @@
+<map id="check_input_buffer" name="check_input_buffer">
+<area shape="rect" id="node1" title="Check if input buffer is full." alt="" coords="909,56,1040,83"/>
+<area shape="rect" id="node2" href="$mouse_8h.html#a7aedfa70b4706f21808dfcf9ccdccb1d" title="Return the data packet that was read." alt="" coords="308,5,463,32"/>
+<area shape="rect" id="node5" href="$mouse_8h.html#abe7c9999227f1c30c9d7bfc9bfdd464a" title="Wryte byte to mouse." alt="" coords="732,132,861,159"/>
+<area shape="rect" id="node3" href="$proj_8c.html#ae3fcb6ab83836a82d8ab58a853667cba" title=" " alt="" coords="163,81,245,108"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,81,115,108"/>
+<area shape="rect" id="node6" href="$mouse_8h.html#a1409acb1a3d4e406d09361ae889a92fb" title="Disable mouse data report." alt="" coords="293,107,477,133"/>
+<area shape="rect" id="node7" href="$mouse_8h.html#aed070fe22d69b98f19e60b8bfb963f7d" title="Enable mouse data reporting." alt="" coords="295,157,476,184"/>
+<area shape="rect" id="node8" href="$mouse_8c.html#abace4e9f7723bed8a5381f1b3e9cb269" title=" " alt="" coords="533,208,677,235"/>
+<area shape="rect" id="node9" href="$mouse_8h.html#abdf3176879529acc0c65fb930899d022" title="Enable mouse streaming." alt="" coords="525,259,684,285"/>
+</map>

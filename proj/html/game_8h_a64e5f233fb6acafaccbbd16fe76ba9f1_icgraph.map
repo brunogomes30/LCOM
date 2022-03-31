@@ -1,0 +1,7 @@
+<map id="initImages" name="initImages">
+<area shape="rect" id="node1" title="Load images, so that they don&#39;t need to be loaded every time they are used." alt="" coords="628,5,709,32"/>
+<area shape="rect" id="node2" href="$game_8c.html#a60fc5b6fae073cc2b9006a162506b51b" title=" " alt="" coords="505,5,580,32"/>
+<area shape="rect" id="node3" href="$proj_8c.html#ae3fcb6ab83836a82d8ab58a853667cba" title=" " alt="" coords="163,5,245,32"/>
+<area shape="rect" id="node5" href="$game_8h.html#a3e884409949a6c0270638526ef293e6d" title="Receive keyboard interrupt, updates player input." alt="" coords="293,31,457,57"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

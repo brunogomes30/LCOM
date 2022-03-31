@@ -1,0 +1,9 @@
+<map id="drawSprite" name="drawSprite">
+<area shape="rect" id="node1" title="Draws the sprite with the given sprite.rotation." alt="" coords="547,107,629,133"/>
+<area shape="rect" id="node2" href="$graphics_8h.html#a3cc8f127a31e0bb757f6ed33e6b5ae11" title="Draw bullet." alt="" coords="416,5,499,32"/>
+<area shape="rect" id="node3" href="$game_8h.html#a33999aac0ff190cf4f34e69bed2512ef" title="Draw a single entity." alt="" coords="147,107,229,133"/>
+<area shape="rect" id="node5" href="$graphics_8h.html#a93b959b9edc2ffc163cf9048158cf208" title="Draw enemy and its gun." alt="" coords="277,107,368,133"/>
+<area shape="rect" id="node6" href="$graphics_8h.html#af8b2046da3db50010a07737729a03c31" title="Draw Gun." alt="" coords="421,157,494,184"/>
+<area shape="rect" id="node7" href="$graphics_8h.html#a1dda663765b5cce5975c3f7e20cceb2d" title="Draw Player and its gun." alt="" coords="279,208,366,235"/>
+<area shape="rect" id="node4" href="$game_8h.html#a6bb67f99cf84ed3257b2e04ac15d8713" title="Draw all entities." alt="" coords="5,107,99,133"/>
+</map>

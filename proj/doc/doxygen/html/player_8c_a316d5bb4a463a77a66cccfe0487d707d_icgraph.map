@@ -1,0 +1,6 @@
+<map id="player_mouse_input" name="player_mouse_input">
+<area shape="rect" id="node1" title="Handles mouse input." alt="" coords="489,5,628,32"/>
+<area shape="rect" id="node2" href="$game_8h.html#aae751be4fa8c08ec3ec2ecd5b40c1ad3" title="Receive Mouse interrupt, updates player input." alt="" coords="293,5,441,32"/>
+<area shape="rect" id="node3" href="$proj_8c.html#ae3fcb6ab83836a82d8ab58a853667cba" title=" " alt="" coords="163,5,245,32"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

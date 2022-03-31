@@ -1,0 +1,5 @@
+<map id="initPlayer" name="initPlayer">
+<area shape="rect" id="node1" title="Init player in the game." alt="" coords="5,5,81,32"/>
+<area shape="rect" id="node2" href="$sprite_8c.html#a6710f362fe46d258ee1a8fac55c95304" title="Create a sprite with the given image and at x and y." alt="" coords="251,5,343,32"/>
+<area shape="rect" id="node3" href="$gun_8c.html#ad9083661e824e584a081e322ea52ac1e" title="Create a gun with normal firerate." alt="" coords="129,31,203,57"/>
+</map>

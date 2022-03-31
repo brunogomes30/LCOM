@@ -1,0 +1,8 @@
+<map id="handleCollisions" name="handleCollisions">
+<area shape="rect" id="node1" title="Checks for collisions, and handles them." alt="" coords="5,56,121,83"/>
+<area shape="rect" id="node2" href="$sprite_8c.html#a4caee5774cfa473aad3303dbf6900408" title="Check colision between 2 sprites, only checks the &#39;rectangles&#39; of the sprites." alt="" coords="173,5,275,32"/>
+<area shape="rect" id="node3" href="$game_8c.html#af758520e054995f8ec7572fd1e449659" title="Get the sprite from the entity." alt="" coords="187,56,261,83"/>
+<area shape="rect" id="node4" href="$game_8c.html#ae3878b2ea39095ef9408b52a7bbfccee" title="Handles a single collision between 2 entities." alt="" coords="169,107,279,133"/>
+<area shape="rect" id="node5" href="$game_8c.html#a15e37b082c572051a6f539773afe9805" title="Removes an entity." alt="" coords="327,107,425,133"/>
+<area shape="rect" id="node6" href="$game_8c.html#a283ecb66dd5da59a2dcd7cdb513e323d" title="Checks if a new highscore was achieved and saves it." alt="" coords="473,107,581,133"/>
+</map>

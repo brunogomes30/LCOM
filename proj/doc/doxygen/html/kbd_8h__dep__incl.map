@@ -1,0 +1,12 @@
+<map id="kbd.h" name="kbd.h">
+<area shape="rect" id="node1" title=" " alt="" coords="317,5,372,32"/>
+<area shape="rect" id="node2" href="$kbd_8c.html" title=" " alt="" coords="232,80,287,107"/>
+<area shape="rect" id="node3" href="$player_8h.html" title=" " alt="" coords="311,80,379,107"/>
+<area shape="rect" id="node8" href="$proj_8c.html" title=" " alt="" coords="408,379,463,405"/>
+<area shape="rect" id="node4" href="$enemy_8h.html" title=" " alt="" coords="309,155,381,181"/>
+<area shape="rect" id="node7" href="$game_8h.html" title=" " alt="" coords="312,304,377,331"/>
+<area shape="rect" id="node9" href="$graphics_8h.html" title=" " alt="" coords="394,229,477,256"/>
+<area shape="rect" id="node10" href="$player_8c.html" title=" " alt="" coords="5,155,73,181"/>
+<area shape="rect" id="node5" href="$enemy_8c.html" title=" " alt="" coords="223,229,295,256"/>
+<area shape="rect" id="node6" href="$game_8c.html" title=" " alt="" coords="233,379,299,405"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="getPistol" name="getPistol">
+<area shape="rect" id="node1" title="Create a gun with normal firerate." alt="" coords="5,5,79,32"/>
+<area shape="rect" id="node2" href="$sprite_8c.html#a6710f362fe46d258ee1a8fac55c95304" title="Create a sprite with the given image and at x and y." alt="" coords="127,5,219,32"/>
+</map>

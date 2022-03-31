@@ -1,0 +1,5 @@
+<map id="setEnemySpeed" name="setEnemySpeed">
+<area shape="rect" id="node1" title="Set the Enemy Speed towards player." alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node2" href="$sprite_8c.html#a1c81ccf8252e976f9f80f6fe1b1d4c0a" title="Set the sprite speed with the value of speed and direction of vectorX,vectorY." alt="" coords="172,5,249,32"/>
+<area shape="rect" id="node3" href="$sprite_8c.html#a0fb331ef0d09dcec253a88f9443825f1" title=" " alt="" coords="297,5,371,32"/>
+</map>

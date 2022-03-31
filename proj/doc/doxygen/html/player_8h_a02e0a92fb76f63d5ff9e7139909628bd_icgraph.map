@@ -1,0 +1,6 @@
+<map id="updatePlayerAnimation" name="updatePlayerAnimation">
+<area shape="rect" id="node1" title="Updates Player&#39;s animation." alt="" coords="525,5,681,32"/>
+<area shape="rect" id="node2" href="$game_8h.html#ac5f0dd966d32dc3a197808c44d0753cd" title="Checks for the next animation, and updates if required." alt="" coords="324,5,477,32"/>
+<area shape="rect" id="node3" href="$game_8h.html#a6c82e80020aaa41e52e597f83a65c9e3" title="Update all animations from the entities in the game." alt="" coords="149,5,276,32"/>
+<area shape="rect" id="node4" href="$game_8h.html#a50650255dafe7459e9b735ef583a70ef" title="Move all entities from the game." alt="" coords="5,5,101,32"/>
+</map>

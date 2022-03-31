@@ -1,0 +1,13 @@
+<map id="createEnemy" name="createEnemy">
+<area shape="rect" id="node1" title="Create an Enemy , at the given x and y, moving towards player." alt="" coords="5,77,104,103"/>
+<area shape="rect" id="node2" href="$sprite_8c.html#a6710f362fe46d258ee1a8fac55c95304" title="Create a sprite with the given image and at x and y." alt="" coords="348,51,440,78"/>
+<area shape="rect" id="node3" href="$gun_8c.html#ad9083661e824e584a081e322ea52ac1e" title="Create a gun with normal firerate." alt="" coords="175,26,248,53"/>
+<area shape="rect" id="node4" href="$gun_8c.html#a2751799e0e0b2952eb2617de635089a1" title="Creates a gun with increase firerate." alt="" coords="176,77,247,103"/>
+<area shape="rect" id="node5" href="$enemy_8c.html#a02bad44163cdf425efd37b5056c19f02" title="Set the Enemy Speed towards player." alt="" coords="152,127,271,154"/>
+<area shape="rect" id="node8" href="$gun_8c.html#a6243ddd362a9053a6e2b23fbf3d025c0" title="Makes the gun shoot at the target." alt="" coords="184,178,239,205"/>
+<area shape="rect" id="node6" href="$sprite_8c.html#a1c81ccf8252e976f9f80f6fe1b1d4c0a" title="Set the sprite speed with the value of speed and direction of vectorX,vectorY." alt="" coords="355,127,433,154"/>
+<area shape="rect" id="node7" href="$sprite_8c.html#a0fb331ef0d09dcec253a88f9443825f1" title=" " alt="" coords="520,127,593,154"/>
+<area shape="rect" id="node9" href="$linked_entities_8c.html#a5060c7f61f672e148ab52170b1835b6b" title=" " alt="" coords="355,229,433,255"/>
+<area shape="rect" id="node10" href="$sprite_8c.html#a650da786e3a6bc9864a2489d8cc5caa0" title="Transforms the oldx and oldy." alt="" coords="319,178,469,205"/>
+<area shape="rect" id="node11" href="$sprite_8c.html#a3bcd40bb529715085c48a4940e5d88a2" title="Get center of a sprite via the arguments x and y." alt="" coords="517,178,596,205"/>
+</map>

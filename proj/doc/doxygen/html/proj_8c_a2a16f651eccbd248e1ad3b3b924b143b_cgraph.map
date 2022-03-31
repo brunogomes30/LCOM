@@ -1,0 +1,58 @@
+<map id="proj_main_loop" name="proj_main_loop">
+<area shape="rect" id="node1" title=" " alt="" coords="5,626,115,653"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#a141b17ed0367cf55ab36117f87a723f4" title="Activate graphics mode in the given mode." alt="" coords="163,576,313,602"/>
+<area shape="rect" id="node3" href="$graphics_8c.html#a3d51cc90cd82c255ff7b2afa5a29cef0" title="Sets to text Mode." alt="" coords="177,626,299,653"/>
+<area shape="rect" id="node4" href="$proj_8c.html#ae3fcb6ab83836a82d8ab58a853667cba" title=" " alt="" coords="197,677,279,704"/>
+<area shape="rect" id="node5" href="$mouse_8c.html#a1409acb1a3d4e406d09361ae889a92fb" title="Disable mouse data report." alt="" coords="591,120,775,146"/>
+<area shape="rect" id="node6" href="$mouse_8c.html#abe7c9999227f1c30c9d7bfc9bfdd464a" title="Wryte byte to mouse." alt="" coords="835,120,965,146"/>
+<area shape="rect" id="node8" href="$mouse_8c.html#aed070fe22d69b98f19e60b8bfb963f7d" title="Enable mouse data reporting." alt="" coords="361,221,543,248"/>
+<area shape="rect" id="node10" href="$game_8c.html#a60fc5b6fae073cc2b9006a162506b51b" title=" " alt="" coords="645,272,720,298"/>
+<area shape="rect" id="node16" href="$mouse_8c.html#a6a0c4eef2c5a138cc28ea2eeae8850dd" title="Returns true if 3 packets were read." alt="" coords="364,373,540,400"/>
+<area shape="rect" id="node17" href="$kbd_8c.html#ac77fe3b4464880f1d1839191663b8dec" title="Returns keycode of the key pressed." alt="" coords="397,424,507,450"/>
+<area shape="rect" id="node19" href="$kbd_8c.html#a4ac9231a99a664d6a9f0b69767e0d707" title="Subscribe keyboard interrupt." alt="" coords="389,474,515,501"/>
+<area shape="rect" id="node20" href="$kbd_8c.html#aee0a7b54ee426fade9c780418d110fe0" title="Unsubscribe keyboard interrupt." alt="" coords="381,525,523,552"/>
+<area shape="rect" id="node21" href="$mouse_8c.html#a210374b50462acdedab00df64d5cea3c" title="Mouse interrupt handler." alt="" coords="413,576,491,602"/>
+<area shape="rect" id="node23" href="$mouse_8c.html#a34792fe81f2284ce666047fb4cac1544" title="Subscribe mouse interrupts." alt="" coords="379,626,525,653"/>
+<area shape="rect" id="node24" href="$mouse_8c.html#a685ad2706aca36d9869a30a19b9f446a" title="Unsubscribe mouse interrupts." alt="" coords="373,677,531,704"/>
+<area shape="rect" id="node25" href="$mouse_8c.html#a7aedfa70b4706f21808dfcf9ccdccb1d" title="Return the data packet that was read." alt="" coords="823,44,977,70"/>
+<area shape="rect" id="node26" href="$game_8c.html#a3e884409949a6c0270638526ef293e6d" title="Receive keyboard interrupt, updates player input." alt="" coords="370,322,534,349"/>
+<area shape="rect" id="node29" href="$game_8c.html#aae751be4fa8c08ec3ec2ecd5b40c1ad3" title="Receive Mouse interrupt, updates player input." alt="" coords="378,728,526,754"/>
+<area shape="rect" id="node31" href="$game_8c.html#a40792c20f8c8d0a6bd314c796ac9d719" title="Receives periodic interrupt, sets all enemies to move towards player." alt="" coords="374,778,530,805"/>
+<area shape="rect" id="node33" href="$game_8c.html#a2a14d25efcee5c54cf427547af2c431e" title="Receive timer interrupt, move and draw all entities, and also checks for colisions." alt="" coords="381,829,523,856"/>
+<area shape="rect" id="node43" href="$rtc_8c.html#ac41958137ea3955128cc2437d8e6a4cd" title="Active RTC periodic interrupts at te sample rate given." alt="" coords="365,981,539,1008"/>
+<area shape="rect" id="node46" href="$rtc_8c.html#a19881ea8d21291b4ea0127c205585289" title="Wait." alt="" coords="415,1032,489,1058"/>
+<area shape="rect" id="node47" href="$rtc_8c.html#a69ba31d0081549b2418944de50971670" title="Disable RTC periodic interrupts." alt="" coords="383,930,521,957"/>
+<area shape="rect" id="node48" href="$rtc_8c.html#a0293f38f3284099d9d540ebe10d1c6f1" title="RTC interrupt handler." alt="" coords="425,880,479,906"/>
+<area shape="rect" id="node49" href="$rtc_8c.html#abd8de825e876e8ef94c64ac616f68a11" title="Subscribe to rtc&#39;s interrupts." alt="" coords="391,1082,513,1109"/>
+<area shape="rect" id="node50" href="$rtc_8c.html#ab8f17bf5280c908c8b199a90fefcc758" title="Unsubscribe rtc&#39;s interrupts." alt="" coords="385,1133,519,1160"/>
+<area shape="rect" id="node51" href="$timer_8c.html#af2c04fa8e97ffa748fd3f612886a92a7" title="Set timer frequency." alt="" coords="383,1184,521,1210"/>
+<area shape="rect" id="node55" href="$timer_8c.html#ac57a7e1140a7e00ad95ac5488d2a671b" title="Subscribe to timer interrupts." alt="" coords="385,1234,519,1261"/>
+<area shape="rect" id="node56" href="$timer_8c.html#afabd21de449be154dd65d5fdb2d8045d" title="Unsubscribe from timer interrupts." alt="" coords="377,1285,527,1312"/>
+<area shape="rect" id="node7" href="$mouse_8c.html#acdbc39e02390aa9c233738854198c3a6" title="Check if input buffer is full." alt="" coords="1025,82,1156,109"/>
+<area shape="rect" id="node9" href="$mouse_8c.html#abdf3176879529acc0c65fb930899d022" title="Enable mouse streaming." alt="" coords="603,221,762,248"/>
+<area shape="rect" id="node11" href="$linked_entities_8c.html#a5060c7f61f672e148ab52170b1835b6b" title=" " alt="" coords="861,272,939,298"/>
+<area shape="rect" id="node12" href="$graphics_8c.html#a97d897abed5ce28d50f65211fb8aaa2d" title="Returns the resolution of the current mode via arguments." alt="" coords="849,322,951,349"/>
+<area shape="rect" id="node13" href="$game_8c.html#a64e5f233fb6acafaccbbd16fe76ba9f1" title="Load images, so that they don&#39;t need to be loaded every time they are used." alt="" coords="859,373,941,400"/>
+<area shape="rect" id="node14" href="$player_8c.html#a7dd87c49eb85f82562d57660f7a9eb6b" title="Init player in the game." alt="" coords="862,170,938,197"/>
+<area shape="rect" id="node15" href="$game_8c.html#a63efdfb239f213fd9af3120f8413590d" title="Loads the current highscore." alt="" coords="847,221,953,248"/>
+<area shape="rect" id="node18" href="$kbd_8c.html#a06186a9f455b5e5a8ded3ff8a5dff57c" title="Reads current keycode byte." alt="" coords="645,424,720,450"/>
+<area shape="rect" id="node22" href="$mouse_8c.html#adf7acbe3fb73e07f726d7d5aed7416c1" title="Read a packet from mouse." alt="" coords="636,474,729,501"/>
+<area shape="rect" id="node27" href="$player_8c.html#adae30c777bff5c26c4d55976c72e0dfa" title="Handles keyboard input." alt="" coords="626,322,739,349"/>
+<area shape="rect" id="node28" href="$game_8c.html#a7f0f70a79139b6c5c75a8fc5ae07ff93" title=" " alt="" coords="641,373,724,400"/>
+<area shape="rect" id="node30" href="$player_8c.html#a316d5bb4a463a77a66cccfe0487d707d" title="Handles mouse input." alt="" coords="613,525,752,552"/>
+<area shape="rect" id="node32" href="$enemy_8c.html#adc41886e4329c272556f233b791697cb" title="Function to update enemy movement, and shoot. Used every periodic interrupt." alt="" coords="633,576,732,602"/>
+<area shape="rect" id="node34" href="$graphics_8c.html#a53c75dd4ec4a123969cbd9afa1ec4969" title=" " alt="" coords="848,1020,952,1046"/>
+<area shape="rect" id="node35" href="$game_8c.html#ac11eff16e4966246e7b2cea251a27e1c" title="Deletes all entities that have remove set to 1." alt="" coords="632,626,733,653"/>
+<area shape="rect" id="node36" href="$game_8c.html#a6bb67f99cf84ed3257b2e04ac15d8713" title="Draw all entities." alt="" coords="636,981,729,1008"/>
+<area shape="rect" id="node37" href="$graphics_8c.html#a616b85026b246015bb5eaaf1a1f0be80" title="Draw a text, accepts all letters, numbers and &#39;&#45;&#39;." alt="" coords="859,944,941,970"/>
+<area shape="rect" id="node38" href="$game_8c.html#a27dfd7ad73de4f51e688176ee8880976" title="Checks for collisions, and handles them." alt="" coords="625,677,741,704"/>
+<area shape="rect" id="node39" href="$game_8c.html#a50650255dafe7459e9b735ef583a70ef" title="Move all entities from the game." alt="" coords="635,728,731,754"/>
+<area shape="rect" id="node40" href="$player_8c.html#a416d41c018c622b16d086b310e2e7056" title="Moves player." alt="" coords="621,778,744,805"/>
+<area shape="rect" id="node41" href="$game_8c.html#a2f4c7706b824a378e3bbe8493d62ba7e" title="Spawn enemy at a random location outside of the screen." alt="" coords="633,829,733,856"/>
+<area shape="rect" id="node42" href="$player_8c.html#abc03ad2ad145be7729562d2bc7f92aab" title="Sets player facing the cursor." alt="" coords="628,880,737,906"/>
+<area shape="rect" id="node44" href="$rtc_8c.html#a4977312557460aaf50b8bfedb90758a9" title="Read from RTC register." alt="" coords="648,1082,717,1109"/>
+<area shape="rect" id="node45" href="$rtc_8c.html#af301ee266b399bc3b12d6c893060e731" title="Write to RTC register." alt="" coords="647,1133,718,1160"/>
+<area shape="rect" id="node52" href="$timer_8c.html#a703c60b40c8c49607d6ecb6fef82d27a" title="Get configuration of the given timer." alt="" coords="629,1184,736,1210"/>
+<area shape="rect" id="node53" href="$timer_8c.html#a81621440b3d65680979425e39aa8c789" title=" " alt="" coords="635,1234,731,1261"/>
+<area shape="rect" id="node54" href="$timer_8c.html#a6a880076cd2ec468834438b6e0c58836" title=" " alt="" coords="633,1285,733,1312"/>
+</map>

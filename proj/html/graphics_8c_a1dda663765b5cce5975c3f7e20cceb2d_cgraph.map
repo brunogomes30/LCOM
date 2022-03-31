@@ -1,0 +1,5 @@
+<map id="drawPlayer" name="drawPlayer">
+<area shape="rect" id="node1" title="Draw Player and its gun." alt="" coords="5,31,92,57"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#af8b2046da3db50010a07737729a03c31" title="Draw Gun." alt="" coords="140,5,213,32"/>
+<area shape="rect" id="node3" href="$graphics_8c.html#a62a556a6198cde2d265eed499fa1d063" title="Draws the sprite with the given sprite.rotation." alt="" coords="261,31,344,57"/>
+</map>

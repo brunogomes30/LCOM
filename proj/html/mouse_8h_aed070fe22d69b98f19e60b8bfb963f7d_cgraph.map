@@ -1,0 +1,8 @@
+<map id="enableMouseDataReporting" name="enableMouseDataReporting">
+<area shape="rect" id="node1" title="Enable mouse data reporting." alt="" coords="5,56,187,83"/>
+<area shape="rect" id="node2" href="$mouse_8c.html#abdf3176879529acc0c65fb930899d022" title="Enable mouse streaming." alt="" coords="235,31,393,57"/>
+<area shape="rect" id="node3" href="$mouse_8c.html#abe7c9999227f1c30c9d7bfc9bfdd464a" title="Wryte byte to mouse." alt="" coords="441,56,571,83"/>
+<area shape="rect" id="node4" href="$mouse_8c.html#acdbc39e02390aa9c233738854198c3a6" title="Check if input buffer is full." alt="" coords="623,5,753,32"/>
+<area shape="rect" id="node5" href="$mouse_8c.html#a85ef94d93daf103419342cbacebe8aa8" title="Check if outputbuffer is available." alt="" coords="619,56,757,83"/>
+<area shape="rect" id="node6" href="$mouse_8c.html#ad6a4a569411e193be347805f4c2cdc3f" title="Waits the mouse delay." alt="" coords="639,107,737,133"/>
+</map>

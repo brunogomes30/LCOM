@@ -1,0 +1,7 @@
+<map id="menuLoop" name="menuLoop">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,88,83"/>
+<area shape="rect" id="node2" href="$kbd_8c.html#ac77fe3b4464880f1d1839191663b8dec" title="Returns keycode of the key pressed." alt="" coords="151,5,262,32"/>
+<area shape="rect" id="node4" href="$kbd_8c.html#a4ac9231a99a664d6a9f0b69767e0d707" title="Subscribe keyboard interrupt." alt="" coords="143,56,270,83"/>
+<area shape="rect" id="node5" href="$kbd_8c.html#aee0a7b54ee426fade9c780418d110fe0" title="Unsubscribe keyboard interrupt." alt="" coords="136,107,277,133"/>
+<area shape="rect" id="node3" href="$kbd_8c.html#a06186a9f455b5e5a8ded3ff8a5dff57c" title="Reads current keycode byte." alt="" coords="325,5,400,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="drawEnemy" name="drawEnemy">
+<area shape="rect" id="node1" title="Draw enemy and its gun." alt="" coords="467,5,557,32"/>
+<area shape="rect" id="node2" href="$game_8h.html#a33999aac0ff190cf4f34e69bed2512ef" title="Draw a single entity." alt="" coords="336,5,419,32"/>
+<area shape="rect" id="node3" href="$game_8h.html#a6bb67f99cf84ed3257b2e04ac15d8713" title="Draw all entities." alt="" coords="195,5,288,32"/>
+<area shape="rect" id="node4" href="$game_8h.html#a2a14d25efcee5c54cf427547af2c431e" title="Receive timer interrupt, move and draw all entities, and also checks for colisions." alt="" coords="5,5,147,32"/>
+</map>

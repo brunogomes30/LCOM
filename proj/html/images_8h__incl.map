@@ -1,0 +1,12 @@
+<map id="images.h" name="images.h">
+<area shape="rect" id="node1" title=" " alt="" coords="355,5,429,32"/>
+<area shape="rect" id="node2" href="$graphics_8h.html" title=" " alt="" coords="227,80,309,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="130,528,209,555"/>
+<area shape="rect" id="node4" href="$sprite_8h.html" title=" " alt="" coords="269,453,334,480"/>
+<area shape="rect" id="node6" href="$enemy_8h.html" title=" " alt="" coords="232,155,304,181"/>
+<area shape="rect" id="node7" href="$gun_8h.html" title=" " alt="" coords="345,229,399,256"/>
+<area shape="rect" id="node9" href="$player_8h.html" title=" " alt="" coords="135,379,203,405"/>
+<area shape="rect" id="node10" href="$letters_8h.html" title=" " alt="" coords="503,155,572,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="270,528,333,555"/>
+<area shape="rect" id="node8" href="$game_8h.html" title=" " alt="" coords="269,304,334,331"/>
+</map>

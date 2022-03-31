@@ -1,0 +1,4 @@
+<map id="kbd_read_code" name="kbd_read_code">
+<area shape="rect" id="node1" title="Returns keycode of the key pressed." alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node2" href="$kbd_8c.html#a06186a9f455b5e5a8ded3ff8a5dff57c" title="Reads current keycode byte." alt="" coords="164,5,239,32"/>
+</map>

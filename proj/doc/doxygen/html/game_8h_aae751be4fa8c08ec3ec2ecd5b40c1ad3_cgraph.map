@@ -1,0 +1,5 @@
+<map id="receiveMouseInterrupt" name="receiveMouseInterrupt">
+<area shape="rect" id="node1" title="Receive Mouse interrupt, updates player input." alt="" coords="5,5,153,32"/>
+<area shape="rect" id="node2" href="$player_8c.html#a316d5bb4a463a77a66cccfe0487d707d" title="Handles mouse input." alt="" coords="201,5,340,32"/>
+<area shape="rect" id="node3" href="$sprite_8c.html#a04dd69b14dc6e21684b8c360895e6f88" title="Forces the sprite to be inside of the screen." alt="" coords="388,5,513,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="drawBullet" name="drawBullet">
+<area shape="rect" id="node1" title="Draw bullet." alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#a62a556a6198cde2d265eed499fa1d063" title="Draws the sprite with the given sprite.rotation." alt="" coords="136,5,219,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="rtc_read" name="rtc_read">
+<area shape="rect" id="node1" title="Read from RTC register." alt="" coords="531,107,600,133"/>
+<area shape="rect" id="node2" href="$rtc_8h.html#a4a54f52996492cdc8a704b68ff5d43dd" title="Get current date." alt="" coords="362,5,429,32"/>
+<area shape="rect" id="node5" href="$rtc_8h.html#ac41958137ea3955128cc2437d8e6a4cd" title="Active RTC periodic interrupts at te sample rate given." alt="" coords="308,56,483,83"/>
+<area shape="rect" id="node7" href="$rtc_8h.html#a731ad30ae4082a65181000f326597ba2" title="Add alarm." alt="" coords="336,107,455,133"/>
+<area shape="rect" id="node8" href="$rtc_8h.html#a69ba31d0081549b2418944de50971670" title="Disable RTC periodic interrupts." alt="" coords="327,157,464,184"/>
+<area shape="rect" id="node9" href="$rtc_8h.html#a0293f38f3284099d9d540ebe10d1c6f1" title="RTC interrupt handler." alt="" coords="368,208,423,235"/>
+<area shape="rect" id="node3" href="$game_8h.html#a283ecb66dd5da59a2dcd7cdb513e323d" title="Checks if a new highscore was achieved and saves it." alt="" coords="152,5,260,32"/>
+<area shape="rect" id="node4" href="$game_8h.html#a15e37b082c572051a6f539773afe9805" title="Removes an entity." alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node6" href="$proj_8c.html#ae3fcb6ab83836a82d8ab58a853667cba" title=" " alt="" coords="165,157,247,184"/>
+</map>

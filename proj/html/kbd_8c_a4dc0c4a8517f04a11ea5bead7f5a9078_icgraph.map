@@ -1,0 +1,5 @@
+<map id="kbd_delay" name="kbd_delay">
+<area shape="rect" id="node1" title=" " alt="" coords="167,31,248,57"/>
+<area shape="rect" id="node2" href="$kbd_8h.html#a184ebc7111e62bb4d1187b65543d9f8c" title="Read command byte." alt="" coords="7,5,117,32"/>
+<area shape="rect" id="node3" href="$kbd_8h.html#a70cba5e03f2c90aa8fa025367aaff0ef" title="Write command byte." alt="" coords="5,56,119,83"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="spawnEnemy" name="spawnEnemy">
+<area shape="rect" id="node1" title="Spawn enemy at a random location outside of the screen." alt="" coords="5,81,105,108"/>
+<area shape="rect" id="node2" href="$game_8c.html#ac4d533a33d90774dd7c44cb6693f1d18" title="Add the Enemy to the game." alt="" coords="161,31,245,57"/>
+<area shape="rect" id="node4" href="$enemy_8c.html#a45f7330a9bec806c93db368a1f13f445" title="Create an Enemy , at the given x and y, moving towards player." alt="" coords="153,132,252,159"/>
+<area shape="rect" id="node3" href="$linked_entities_8c.html#a5060c7f61f672e148ab52170b1835b6b" title=" " alt="" coords="503,5,581,32"/>
+<area shape="rect" id="node5" href="$sprite_8c.html#a6710f362fe46d258ee1a8fac55c95304" title="Create a sprite with the given image and at x and y." alt="" coords="496,183,588,209"/>
+<area shape="rect" id="node6" href="$gun_8c.html#ad9083661e824e584a081e322ea52ac1e" title="Create a gun with normal firerate." alt="" coords="323,157,396,184"/>
+<area shape="rect" id="node7" href="$gun_8c.html#a2751799e0e0b2952eb2617de635089a1" title="Creates a gun with increase firerate." alt="" coords="324,208,395,235"/>
+<area shape="rect" id="node8" href="$enemy_8c.html#a02bad44163cdf425efd37b5056c19f02" title="Set the Enemy Speed towards player." alt="" coords="300,56,419,83"/>
+<area shape="rect" id="node10" href="$gun_8c.html#a6243ddd362a9053a6e2b23fbf3d025c0" title="Makes the gun shoot at the target." alt="" coords="332,107,387,133"/>
+<area shape="rect" id="node9" href="$sprite_8c.html#a1c81ccf8252e976f9f80f6fe1b1d4c0a" title="Set the sprite speed with the value of speed and direction of vectorX,vectorY." alt="" coords="503,56,581,83"/>
+<area shape="rect" id="node11" href="$sprite_8c.html#a650da786e3a6bc9864a2489d8cc5caa0" title="Transforms the oldx and oldy." alt="" coords="467,107,617,133"/>
+</map>

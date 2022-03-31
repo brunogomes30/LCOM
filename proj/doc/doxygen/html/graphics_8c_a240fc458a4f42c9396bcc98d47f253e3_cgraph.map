@@ -1,0 +1,4 @@
+<map id="vg_draw_vline" name="vg_draw_vline">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,105,32"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#a6f895de9725f9f231f9a7f74b6087f60" title="Draw a pixel at x and y, with the given color." alt="" coords="153,5,256,32"/>
+</map>

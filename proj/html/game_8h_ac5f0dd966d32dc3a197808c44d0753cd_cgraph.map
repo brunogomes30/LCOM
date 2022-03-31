@@ -1,0 +1,5 @@
+<map id="updateEntityAnimation" name="updateEntityAnimation">
+<area shape="rect" id="node1" title="Checks for the next animation, and updates if required." alt="" coords="5,31,159,57"/>
+<area shape="rect" id="node2" href="$gun_8c.html#ae902b04bbe92924e1c5b3fe48ef6bdb1" title="Updates gun animation, checks if its shooting." alt="" coords="213,5,356,32"/>
+<area shape="rect" id="node3" href="$player_8c.html#a02e0a92fb76f63d5ff9e7139909628bd" title="Updates Player&#39;s animation." alt="" coords="207,56,363,83"/>
+</map>

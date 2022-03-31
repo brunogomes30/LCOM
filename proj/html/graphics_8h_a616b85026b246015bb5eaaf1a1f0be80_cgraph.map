@@ -1,0 +1,4 @@
+<map id="drawString" name="drawString">
+<area shape="rect" id="node1" title="Draw a text, accepts all letters, numbers and &#39;&#45;&#39;." alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node2" href="$letters_8c.html#a024c02470f2ab24c4478abbad1e4ca01" title="Get the Letter Xpm for the char c." alt="" coords="136,5,235,32"/>
+</map>

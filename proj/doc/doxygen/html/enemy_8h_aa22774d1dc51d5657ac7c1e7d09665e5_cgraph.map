@@ -1,0 +1,7 @@
+<map id="moveEnemy" name="moveEnemy">
+<area shape="rect" id="node1" title="Move enemy and its gun." alt="" coords="5,56,99,83"/>
+<area shape="rect" id="node2" href="$sprite_8c.html#a650da786e3a6bc9864a2489d8cc5caa0" title="Transforms the oldx and oldy." alt="" coords="147,31,297,57"/>
+<area shape="rect" id="node5" href="$game_8c.html#a9b2770b833a8de064bd8925e045f46b8" title="Move Sprite at the given gamespeed." alt="" coords="179,81,265,108"/>
+<area shape="rect" id="node3" href="$sprite_8c.html#a0fb331ef0d09dcec253a88f9443825f1" title=" " alt="" coords="348,5,421,32"/>
+<area shape="rect" id="node4" href="$sprite_8c.html#a3bcd40bb529715085c48a4940e5d88a2" title="Get center of a sprite via the arguments x and y." alt="" coords="345,56,424,83"/>
+</map>

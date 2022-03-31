@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "cmath": "c",
+        "complex": "c",
+        "__functional_base": "c",
+        "__functional_base_03": "c",
+        "__tuple": "c",
+        "chrono": "c",
+        "functional": "c",
+        "limits": "c",
+        "memory": "c",
+        "ratio": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "__functional_03": "c",
+        "cstddef": "cpp",
+        "locale": "c",
+        "string": "c"
+    }
+}

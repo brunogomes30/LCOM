@@ -1,0 +1,4 @@
+<map id="readMouseDataPacket" name="readMouseDataPacket">
+<area shape="rect" id="node1" title="Return the data packet that was read." alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node2" href="$mouse_8c.html#acdbc39e02390aa9c233738854198c3a6" title="Check if input buffer is full." alt="" coords="208,5,339,32"/>
+</map>

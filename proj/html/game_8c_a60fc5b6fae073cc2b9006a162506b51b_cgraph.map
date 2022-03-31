@@ -1,0 +1,10 @@
+<map id="initGame" name="initGame">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,80,133"/>
+<area shape="rect" id="node2" href="$linked_entities_8c.html#a5060c7f61f672e148ab52170b1835b6b" title=" " alt="" coords="143,5,220,32"/>
+<area shape="rect" id="node3" href="$graphics_8c.html#a97d897abed5ce28d50f65211fb8aaa2d" title="Returns the resolution of the current mode via arguments." alt="" coords="131,56,232,83"/>
+<area shape="rect" id="node4" href="$game_8c.html#a64e5f233fb6acafaccbbd16fe76ba9f1" title="Load images, so that they don&#39;t need to be loaded every time they are used." alt="" coords="141,107,222,133"/>
+<area shape="rect" id="node5" href="$player_8c.html#a7dd87c49eb85f82562d57660f7a9eb6b" title="Init player in the game." alt="" coords="143,157,219,184"/>
+<area shape="rect" id="node8" href="$game_8c.html#a63efdfb239f213fd9af3120f8413590d" title="Loads the current highscore." alt="" coords="128,208,235,235"/>
+<area shape="rect" id="node6" href="$sprite_8c.html#a6710f362fe46d258ee1a8fac55c95304" title="Create a sprite with the given image and at x and y." alt="" coords="404,157,496,184"/>
+<area shape="rect" id="node7" href="$gun_8c.html#ad9083661e824e584a081e322ea52ac1e" title="Create a gun with normal firerate." alt="" coords="283,183,356,209"/>
+</map>

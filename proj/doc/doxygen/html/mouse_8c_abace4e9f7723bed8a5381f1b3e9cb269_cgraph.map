@@ -1,0 +1,7 @@
+<map id="enableMouseRemote" name="enableMouseRemote">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,149,83"/>
+<area shape="rect" id="node2" href="$mouse_8c.html#abe7c9999227f1c30c9d7bfc9bfdd464a" title="Wryte byte to mouse." alt="" coords="197,56,327,83"/>
+<area shape="rect" id="node3" href="$mouse_8c.html#acdbc39e02390aa9c233738854198c3a6" title="Check if input buffer is full." alt="" coords="379,5,509,32"/>
+<area shape="rect" id="node4" href="$mouse_8c.html#a85ef94d93daf103419342cbacebe8aa8" title="Check if outputbuffer is available." alt="" coords="375,56,513,83"/>
+<area shape="rect" id="node5" href="$mouse_8c.html#ad6a4a569411e193be347805f4c2cdc3f" title="Waits the mouse delay." alt="" coords="395,107,493,133"/>
+</map>

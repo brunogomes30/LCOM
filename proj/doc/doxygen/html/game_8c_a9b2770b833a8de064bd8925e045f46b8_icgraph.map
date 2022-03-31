@@ -1,0 +1,6 @@
+<map id="moveSprite" name="moveSprite">
+<area shape="rect" id="node1" title="Move Sprite at the given gamespeed." alt="" coords="425,31,512,57"/>
+<area shape="rect" id="node2" href="$enemy_8h.html#aa22774d1dc51d5657ac7c1e7d09665e5" title="Move enemy and its gun." alt="" coords="284,5,377,32"/>
+<area shape="rect" id="node3" href="$game_8h.html#a7fafe580932f789041ce0473eb1d7367" title="Move given Entity at the given gameSpeed." alt="" coords="149,31,236,57"/>
+<area shape="rect" id="node4" href="$game_8h.html#a50650255dafe7459e9b735ef583a70ef" title="Move all entities from the game." alt="" coords="5,31,101,57"/>
+</map>

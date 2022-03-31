@@ -1,0 +1,9 @@
+<map id="writeByteToMouse" name="writeByteToMouse">
+<area shape="rect" id="node1" title="Wryte byte to mouse." alt="" coords="732,107,861,133"/>
+<area shape="rect" id="node2" href="$mouse_8h.html#a1409acb1a3d4e406d09361ae889a92fb" title="Disable mouse data report." alt="" coords="293,5,477,32"/>
+<area shape="rect" id="node3" href="$proj_8c.html#ae3fcb6ab83836a82d8ab58a853667cba" title=" " alt="" coords="163,56,245,83"/>
+<area shape="rect" id="node5" href="$mouse_8h.html#aed070fe22d69b98f19e60b8bfb963f7d" title="Enable mouse data reporting." alt="" coords="295,107,476,133"/>
+<area shape="rect" id="node6" href="$mouse_8c.html#abace4e9f7723bed8a5381f1b3e9cb269" title=" " alt="" coords="533,157,677,184"/>
+<area shape="rect" id="node7" href="$mouse_8h.html#abdf3176879529acc0c65fb930899d022" title="Enable mouse streaming." alt="" coords="525,208,684,235"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,56,115,83"/>
+</map>

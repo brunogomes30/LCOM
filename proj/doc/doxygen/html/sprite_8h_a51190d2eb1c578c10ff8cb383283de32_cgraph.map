@@ -1,0 +1,5 @@
+<map id="getRotation" name="getRotation">
+<area shape="rect" id="node1" title="Get rotation of the sprite when facing the x and y coordinates." alt="" coords="5,31,93,57"/>
+<area shape="rect" id="node2" href="$sprite_8c.html#a0fb331ef0d09dcec253a88f9443825f1" title=" " alt="" coords="144,5,217,32"/>
+<area shape="rect" id="node3" href="$sprite_8c.html#a3bcd40bb529715085c48a4940e5d88a2" title="Get center of a sprite via the arguments x and y." alt="" coords="141,56,220,83"/>
+</map>
